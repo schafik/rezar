@@ -16,6 +16,18 @@ el_url <- ""
 el_año <- 2015
 
 
+#3) set your working directory to the rezar folder
+
+#FOR MAC USERS: take out the hashtag from the line below
+#setwd("~/Downloads/rezar/")
+
+#FOR Windows USERS using Rstudio: 
+#click on the Session tab => Set working directory => 
+    # Chose Directory => select the rezar folder
+
+#4) save the script!
+
+
 
 
 
