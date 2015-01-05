@@ -17,7 +17,7 @@ use R to make a .csv file of annual prayer times custom to your location that yo
 
 1) follow the steps detailed in the `0_where_when.R` script.
 
-2) run the `get_calendar.r` script.
+2) run the `get_calendar.R` script.
   - *help* [running a script](http://www.dummies.com/how-to/content/how-to-source-a-script-in-r.html)
 
 3) upload the `calendario_2015.csv` to your google calendar
