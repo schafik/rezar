@@ -16,7 +16,12 @@ use R to make a .csv file of annual prayer times custom to your location that yo
 **4 steps**:
 
 1) get the url for gregorian annual prayer times for your hometown from [islamic finder](http://islamicfinder.org/)
-  - ![alt tag](https://github.com/schafik/rezar/blob/master/photos/city.png)
+  i. search for your city
+  ![alt tag](https://github.com/schafik/rezar/blob/master/photos/city.png)
+  ii. click on the link for monthly/annual schedules
+  ![alt tag](https://github.com/schafik/rezar/blob/master/photos/monthly.png)
+  iii. click on annual gregorian schedule
+  ![alt tag](https://github.com/schafik/rezar/blob/master/photos/annual.png)
 
 2) follow the steps detailed in the `0_where_when.R` script.
 
